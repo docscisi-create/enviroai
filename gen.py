@@ -725,7 +725,7 @@ email = page_hero("البريد الإلكتروني الجامعي", "هويت�
 MEMBERS = [("m-ithar.jpg", "الأستاذ المساعد الدكتور إيثار عبد الوهاب حاجم", "رئيسة الفريق", True),
            ("m-yasmin.jpg", "الأستاذ المساعد ياسمين مكي محي الدين", "عضو الفريق", False),
            ("m-salah.jpg", "الأستاذ صلاح طه علاوي", "عضو الفريق", False),
-           ("m-basim.jpg", "الأستاذ المساعد باسم أخضير عباس", "عضو الفريق ومقرر قسم علوم الحاسوب", False)]
+           ("m-basim.jpg", "الأستاذ المساعد باسم أخضير عباس", "عضو الفريق<br>مقرر قسم علوم الحاسوب", False)]
 AV_BOX = "width:112px;height:112px;overflow:hidden;padding:0;background:#EEF4FF"
 AV_IMG = "width:112px;height:112px;max-width:none;object-fit:cover;object-position:center top;border-radius:50%;display:block"
 mem_html = "".join(
